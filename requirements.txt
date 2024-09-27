@@ -1,0 +1,15 @@
+Pillow
+pymupdf
+pytesseract
+tqdm
+Levenshtein
+fitz
+opencv-python
+fastapi 
+python-multipart 
+uvicorn 
+slowapi 
+gunicorn
+openai
+
+sqlite-vec

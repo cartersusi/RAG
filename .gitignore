@@ -1,0 +1,10 @@
+venv/
+*.pdf
+*.db
+images/
+*.sql
+*.log
+.env
+Dockerfile
+guincorn_config.py
+__pycache__/
